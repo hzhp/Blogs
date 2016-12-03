@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>IT道友</title>
   <subtitle>Doing</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blogs/atom.xml" rel="self"/>
   
   <link href="https://hzhp.github.io/blogs/"/>
   <updated>2016-12-03T17:45:02.213Z</updated>
